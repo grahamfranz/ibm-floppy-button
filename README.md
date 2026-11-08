@@ -16,10 +16,6 @@
 - Filament: Overture Matte PLA, blue (close color match to the original)
 - Layer height: 0.1 mm, so the small engraved text is legible
 
-## Status
-
-Printed and installed; fits the drive.
-
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can print, modify, and share this as long as you credit Graham Franz.
