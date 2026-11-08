@@ -1,0 +1,6 @@
+# macOS resource-fork junk
+._*
+.DS_Store
+# Blender autosave/backup
+*.blend1
+*.blend2
