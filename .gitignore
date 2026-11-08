@@ -4,3 +4,7 @@
 # Blender autosave/backup
 *.blend1
 *.blend2
+
+# Original phone photos (contain GPS metadata)
+*.HEIC
+*.heic
