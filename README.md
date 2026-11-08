@@ -14,7 +14,7 @@
 ## Printing
 
 - Filament: Overture Matte PLA, blue (close color match to the original)
-- Layer height: 0.1 mm, so the small engraved text comes out clean
+- Layer height: 0.1 mm, so the small engraved text looks good
 
 ## Status
 
